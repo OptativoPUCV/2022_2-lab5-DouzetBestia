@@ -70,7 +70,6 @@ TreeNode * minimum(TreeNode * x){
   return NULL;
 }
 
-}
 
 
 void removeNode(TreeMap * tree, TreeNode* node) {
